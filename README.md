@@ -18,5 +18,6 @@ README_MD_EDU
 
 
 ### 8. 이미지 넣기
+![가을](https://github.com/YeRinCho99/README_MD_EDU/blob/main/%EC%BA%A1%EC%B2%98.PNG)
 
 ### 7.
